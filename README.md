@@ -1,7 +1,7 @@
 - I commit once in a blue moon but lessee if that'll change...
 - I'm into pen-testing, FOSS, networking, AI, ML, linux(specifically arch), building PCs and all thing CS
-- I'm an amateur at Py, CPP ans C#
-- I've played around with controllers for a bit.
+- I'm an amateur at Py, CPP and C#
+- I've played around with micro-controllers for a bit.
 - I'm also interested in learning math for CS 
 - 
 - fsociety
